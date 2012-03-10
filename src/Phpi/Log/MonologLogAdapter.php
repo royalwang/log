@@ -2,6 +2,8 @@
 
 namespace Phpi\Log;
 
+use Monolog\Logger;
+
 /**
  * Monolog log adapter
  *
